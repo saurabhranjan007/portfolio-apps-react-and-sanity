@@ -1,0 +1,4 @@
+// adding @babel/core 
+{
+  "extends": ["@babel/core", "@sanity/eslint-config-studio"]
+}
